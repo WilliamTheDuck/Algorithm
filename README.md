@@ -1,6 +1,6 @@
 # **Algorithm**
 
-> _This repository comprises a couple of stuff you will need in order to learn Design and Analysis of Algorithm: functions used to operate and evaluate algorithms, measure time and space complexity, and demonstrate classical algorithmic paradigms. Each section includes example .c files to illustrate both implementation and theoretical insights.._
+> _This repository comprises a couple of stuff you will need in order to learn **Design and Analysis of Algorithm**: functions used to operate and evaluate algorithms, measure time and space complexity, and demonstrate classical algorithmic paradigms. Each section includes example .c files to illustrate both implementation and theoretical insights.._
 
 #
 
