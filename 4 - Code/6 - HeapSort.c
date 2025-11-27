@@ -55,7 +55,7 @@ void PushDown(recordtype a[], int first, int last) // O(logn)
                 swap(&a[r], &a[last]);
             r = last;
         }
-        else if (a[r].key > a[2*r+1].key &&a[2*r+1].key <= a[2*r+2].key)
+        else if (a[r].key > a[2*r+1].key && a[2*r+1].key <= a[2*r+2].key)
         {
             swap(&a[r], &a[2*r+1]);
             r = 2*r + 1;
